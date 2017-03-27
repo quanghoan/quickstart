@@ -62,7 +62,7 @@
                                                 {{ csrf_field() }}
                                                 {{ method_field('DELETE') }}
 
-                                                <button>Delete Comment</button>
+                                                <button>Delete</button>
                                             </form>
                                         </td>
                                     </tr>
